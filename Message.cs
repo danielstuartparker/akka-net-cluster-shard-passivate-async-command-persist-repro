@@ -11,4 +11,8 @@
     public class AsyncMessage
     {
     }
+
+    public class StopEntity
+    {
+    }
 }
